@@ -1,1 +1,0 @@
-# jira-ticket-writer-skill
